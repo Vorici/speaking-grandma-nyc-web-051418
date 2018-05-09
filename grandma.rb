@@ -15,6 +15,6 @@
 
 def speak_to_grandma(phrase)
   
-  if phrase = phrase.UpperCase
+  if phrase = phrase.upcase
   
 end
